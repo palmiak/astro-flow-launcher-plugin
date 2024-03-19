@@ -27,7 +27,6 @@ jobs:
       - name: Install and Build
         run: |
           npm ci
-          npm run build
       - name: Remove node_modules
         uses: JesseTG/rm@v1.0.2
         with:
