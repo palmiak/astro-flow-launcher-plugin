@@ -1,0 +1,14 @@
+{
+  "name": "flow-astro-docs",
+  "type": "module",
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "flow-launcher-helper": "^2.2.0",
+    "minisearch": "^6.0.1",
+    "open": "^8.4.0"
+  }
+}
