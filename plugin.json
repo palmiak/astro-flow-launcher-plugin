@@ -1,12 +1,12 @@
 {
-  "ID": "5c221cee-07a5-4e4c-a669-a0e0f7486c65",
+  "ID": "d429a0ef-94e5-4ba6-8eba-b4dd0e69dc48",
   "ActionKeyword": "ast",
   "Name": "Astro",
   "Description": "Search Astro Docs",
   "Author": "Maciek Palmowski",
-  "Version": "0.0.1",
+  "Version": "0.0.2",
   "Language": "javascript",
-  "Website": "https://github.com/palmiak/astrodocs-flow-launcher-plugin",
+  "Website": "https://github.com/palmiak/astro-flow-launcher-plugin",
   "ExecuteFileName": "src/index.js",
   "IcoPath": "astro.png"
 }
