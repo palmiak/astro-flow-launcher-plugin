@@ -1,7 +1,7 @@
 {
   "ID": "5c221cee-07a5-4e4c-a669-a0e0f7486c65",
-  "ActionKeyword": "astro",
-  "Name": "Astro Docs",
+  "ActionKeyword": "ast",
+  "Name": "Astro",
   "Description": "Search Astro Docs",
   "Author": "Maciek Palmowski",
   "Version": "0.0.1",
